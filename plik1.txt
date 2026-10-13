@@ -1,3 +1,2 @@
 kod programu 1
 nowa linijka w pliku 1
-Kolejna linia testowa w pliku 1
